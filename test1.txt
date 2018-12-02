@@ -1,10 +1,1 @@
- Volume in drive C is OSDisk
- Volume Serial Number is E685-8848
-
- Directory of C:\Users\KMylswa\Desktop\Testing Details\Karthik Practice\Git_Sample_Proj1
-
-12/01/2018  08:00 PM    <DIR>          .
-12/01/2018  08:00 PM    <DIR>          ..
-12/01/2018  08:00 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  157,340,049,408 bytes free
+-This is my Change 1.
